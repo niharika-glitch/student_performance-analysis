@@ -1,4 +1,4 @@
-# student_performance-analysis
+# student-performance-analysis
 
 About this project
 
